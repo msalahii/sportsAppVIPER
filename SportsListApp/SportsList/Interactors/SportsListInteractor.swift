@@ -27,9 +27,5 @@ class SportsListInteractor: SportsListInteractorInputProtocol{
                 self.presenter?.sportsListFetchingFailed(withError: error)
             }
         }
-        
-//        self.presenter?.sportsFetchedSuccessfully(sportsList: [Sport(name: "Crossfit", description: "Workout System for strength and conditioning"), Sport(name: "Gymnastics", description: "Workout System for strength and conditioning"), Sport(name: "Weight Lifting", description: "Workout System for strength and conditioning")])
-//        var sportList:[Sport] = [Sport(name: "Crossfit"), Sport(name: "Gymnastics"), Sport(name: "Weight Lifting")]
-//        return sportList
     }
 }
