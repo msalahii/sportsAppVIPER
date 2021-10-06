@@ -1,0 +1,6 @@
+framework module Pods_SportsListApp {
+  umbrella header "Pods-SportsListApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

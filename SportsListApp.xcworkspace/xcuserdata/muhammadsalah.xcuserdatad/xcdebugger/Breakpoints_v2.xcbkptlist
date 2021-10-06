@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "808B6CE6-A872-4918-858B-F95F035B3926"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SportDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - f89f3eb7f5532449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.tvSportDescripition.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - 3e4ca9a82f379495"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.tvSportDescripition.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - adf7be4c121e94bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.tvSportDescripition.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - 9ccea29c044e7911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.tvSportDescripition.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - 65080de07091ceac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SportsListApp.SportDetailsViewController"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "37C0C3A1-E77A-413E-B098-E053FA0DA7AE - 75871e984b612160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportsListApp.SportDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SportsListApp.SportDetailsViewController&gt;"
+                  moduleName = "SportsListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muhammadsalah/Desktop/Projects/IOS/SportsListApp%20VIPER/SportsListApp/SportDetails/Views/SportDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
